@@ -1,0 +1,47 @@
+#container{
+    background-color: rgb(255, 132, 0);
+    width: 1100px;
+    height: 400px;
+    margin-left: 150;
+    margin-right: 150;
+}
+.titulo{
+    font-size: 32px;
+    color: #eab1b1;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 450px;
+
+}
+.paragrafo1{
+    color: red;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+   
+}
+.paragrafo2{
+    color: red;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+
+}
+.paragrafo3{
+    color: red;
+    font-size: 16px;
+
+}
+.paragrafo4{
+    color: rgb(98, 0, 255);
+    font-size: 32px;
+
+}
+span{
+    color: red;
+}
+.card{
+    margin-left: 100px;
+}
